@@ -1,0 +1,1771 @@
+year,county,death_type,deaths,population,deaths_per_100000
+2005,Alameda,All Combined,1,1459881,0.07
+2005,Alameda,Felony,1,1459881,0.07
+2005,Alameda,Accidental,0,1459881,0.0
+2005,All Combined,All Combined,14,35985595,0.04
+2005,All Combined,Felony,5,35985595,0.01
+2005,All Combined,Accidental,9,35985595,0.03
+2005,Alpine,All Combined,0,1210,0.0
+2005,Alpine,Felony,0,1210,0.0
+2005,Alpine,Accidental,0,1210,0.0
+2005,Amador,All Combined,0,37723,0.0
+2005,Amador,Felony,0,37723,0.0
+2005,Amador,Accidental,0,37723,0.0
+2005,Butte,All Combined,0,213701,0.0
+2005,Butte,Felony,0,213701,0.0
+2005,Butte,Accidental,0,213701,0.0
+2005,Calaveras,All Combined,0,44774,0.0
+2005,Calaveras,Felony,0,44774,0.0
+2005,Calaveras,Accidental,0,44774,0.0
+2005,Colusa,All Combined,0,20565,0.0
+2005,Colusa,Felony,0,20565,0.0
+2005,Colusa,Accidental,0,20565,0.0
+2005,Contra Costa,All Combined,1,1004229,0.1
+2005,Contra Costa,Felony,1,1004229,0.1
+2005,Contra Costa,Accidental,0,1004229,0.0
+2005,Del Norte,All Combined,0,28316,0.0
+2005,Del Norte,Felony,0,28316,0.0
+2005,Del Norte,Accidental,0,28316,0.0
+2005,El Dorado,All Combined,0,173183,0.0
+2005,El Dorado,Felony,0,173183,0.0
+2005,El Dorado,Accidental,0,173183,0.0
+2005,Fresno,All Combined,0,871912,0.0
+2005,Fresno,Felony,0,871912,0.0
+2005,Fresno,Accidental,0,871912,0.0
+2005,Glenn,All Combined,0,27523,0.0
+2005,Glenn,Felony,0,27523,0.0
+2005,Glenn,Accidental,0,27523,0.0
+2005,Humboldt,All Combined,0,131689,0.0
+2005,Humboldt,Felony,0,131689,0.0
+2005,Humboldt,Accidental,0,131689,0.0
+2005,Imperial,All Combined,0,157656,0.0
+2005,Imperial,Felony,0,157656,0.0
+2005,Imperial,Accidental,0,157656,0.0
+2005,Inyo,All Combined,0,18463,0.0
+2005,Inyo,Felony,0,18463,0.0
+2005,Inyo,Accidental,0,18463,0.0
+2005,Kern,All Combined,1,761972,0.13
+2005,Kern,Felony,0,761972,0.0
+2005,Kern,Accidental,1,761972,0.13
+2005,Kings,All Combined,0,144602,0.0
+2005,Kings,Felony,0,144602,0.0
+2005,Kings,Accidental,0,144602,0.0
+2005,Lake,All Combined,0,63108,0.0
+2005,Lake,Felony,0,63108,0.0
+2005,Lake,Accidental,0,63108,0.0
+2005,Lassen,All Combined,0,34529,0.0
+2005,Lassen,Felony,0,34529,0.0
+2005,Lassen,Accidental,0,34529,0.0
+2005,Los Angeles,All Combined,2,9809556,0.02
+2005,Los Angeles,Felony,1,9809556,0.01
+2005,Los Angeles,Accidental,1,9809556,0.01
+2005,Madera,All Combined,0,139868,0.0
+2005,Madera,Felony,0,139868,0.0
+2005,Madera,Accidental,0,139868,0.0
+2005,Marin,All Combined,0,246688,0.0
+2005,Marin,Felony,0,246688,0.0
+2005,Marin,Accidental,0,246688,0.0
+2005,Mariposa,All Combined,0,18057,0.0
+2005,Mariposa,Felony,0,18057,0.0
+2005,Mariposa,Accidental,0,18057,0.0
+2005,Mendocino,All Combined,0,88014,0.0
+2005,Mendocino,Felony,0,88014,0.0
+2005,Mendocino,Accidental,0,88014,0.0
+2005,Merced,All Combined,0,240600,0.0
+2005,Merced,Felony,0,240600,0.0
+2005,Merced,Accidental,0,240600,0.0
+2005,Modoc,All Combined,0,9589,0.0
+2005,Modoc,Felony,0,9589,0.0
+2005,Modoc,Accidental,0,9589,0.0
+2005,Mono,All Combined,0,13801,0.0
+2005,Mono,Felony,0,13801,0.0
+2005,Mono,Accidental,0,13801,0.0
+2005,Monterey,All Combined,0,407973,0.0
+2005,Monterey,Felony,0,407973,0.0
+2005,Monterey,Accidental,0,407973,0.0
+2005,Napa,All Combined,0,130740,0.0
+2005,Napa,Felony,0,130740,0.0
+2005,Napa,Accidental,0,130740,0.0
+2005,Nevada,All Combined,0,97802,0.0
+2005,Nevada,Felony,0,97802,0.0
+2005,Nevada,Accidental,0,97802,0.0
+2005,Orange,All Combined,0,2957151,0.0
+2005,Orange,Felony,0,2957151,0.0
+2005,Orange,Accidental,0,2957151,0.0
+2005,Placer,All Combined,1,312632,0.32
+2005,Placer,Felony,0,312632,0.0
+2005,Placer,Accidental,1,312632,0.32
+2005,Plumas,All Combined,0,20859,0.0
+2005,Plumas,Felony,0,20859,0.0
+2005,Plumas,Accidental,0,20859,0.0
+2005,Riverside,All Combined,0,1934724,0.0
+2005,Riverside,Felony,0,1934724,0.0
+2005,Riverside,Accidental,0,1934724,0.0
+2005,Sacramento,All Combined,2,1358169,0.15
+2005,Sacramento,Felony,0,1358169,0.0
+2005,Sacramento,Accidental,2,1358169,0.15
+2005,San Benito,All Combined,0,55155,0.0
+2005,San Benito,Felony,0,55155,0.0
+2005,San Benito,Accidental,0,55155,0.0
+2005,San Bernardino,All Combined,2,1942734,0.1
+2005,San Bernardino,Felony,0,1942734,0.0
+2005,San Bernardino,Accidental,2,1942734,0.1
+2005,San Diego,All Combined,0,2970136,0.0
+2005,San Diego,Felony,0,2970136,0.0
+2005,San Diego,Accidental,0,2970136,0.0
+2005,San Francisco,All Combined,0,779657,0.0
+2005,San Francisco,Felony,0,779657,0.0
+2005,San Francisco,Accidental,0,779657,0.0
+2005,San Joaquin,All Combined,0,651625,0.0
+2005,San Joaquin,Felony,0,651625,0.0
+2005,San Joaquin,Accidental,0,651625,0.0
+2005,San Luis Obispo,All Combined,0,259944,0.0
+2005,San Luis Obispo,Felony,0,259944,0.0
+2005,San Luis Obispo,Accidental,0,259944,0.0
+2005,San Mateo,All Combined,0,699276,0.0
+2005,San Mateo,Felony,0,699276,0.0
+2005,San Mateo,Accidental,0,699276,0.0
+2005,Santa Barbara,All Combined,0,411685,0.0
+2005,Santa Barbara,Felony,0,411685,0.0
+2005,Santa Barbara,Accidental,0,411685,0.0
+2005,Santa Clara,All Combined,0,1699520,0.0
+2005,Santa Clara,Felony,0,1699520,0.0
+2005,Santa Clara,Accidental,0,1699520,0.0
+2005,Santa Cruz,All Combined,1,254726,0.39
+2005,Santa Cruz,Felony,0,254726,0.0
+2005,Santa Cruz,Accidental,1,254726,0.39
+2005,Shasta,All Combined,0,174252,0.0
+2005,Shasta,Felony,0,174252,0.0
+2005,Shasta,Accidental,0,174252,0.0
+2005,Sierra,All Combined,0,3430,0.0
+2005,Sierra,Felony,0,3430,0.0
+2005,Sierra,Accidental,0,3430,0.0
+2005,Siskiyou,All Combined,0,44944,0.0
+2005,Siskiyou,Felony,0,44944,0.0
+2005,Siskiyou,Accidental,0,44944,0.0
+2005,Solano,All Combined,0,410570,0.0
+2005,Solano,Felony,0,410570,0.0
+2005,Solano,Accidental,0,410570,0.0
+2005,Sonoma,All Combined,0,469523,0.0
+2005,Sonoma,Felony,0,469523,0.0
+2005,Sonoma,Accidental,0,469523,0.0
+2005,Stanislaus,All Combined,1,498019,0.2
+2005,Stanislaus,Felony,1,498019,0.2
+2005,Stanislaus,Accidental,0,498019,0.0
+2005,Sutter,All Combined,0,88106,0.0
+2005,Sutter,Felony,0,88106,0.0
+2005,Sutter,Accidental,0,88106,0.0
+2005,Tehama,All Combined,0,60461,0.0
+2005,Tehama,Felony,0,60461,0.0
+2005,Tehama,Accidental,0,60461,0.0
+2005,Trinity,All Combined,0,13789,0.0
+2005,Trinity,Felony,0,13789,0.0
+2005,Trinity,Accidental,0,13789,0.0
+2005,Tulare,All Combined,1,408403,0.24
+2005,Tulare,Felony,0,408403,0.0
+2005,Tulare,Accidental,1,408403,0.24
+2005,Tuolumne,All Combined,0,56452,0.0
+2005,Tuolumne,Felony,0,56452,0.0
+2005,Tuolumne,Accidental,0,56452,0.0
+2005,Ventura,All Combined,0,796866,0.0
+2005,Ventura,Felony,0,796866,0.0
+2005,Ventura,Accidental,0,796866,0.0
+2005,Yolo,All Combined,1,187353,0.53
+2005,Yolo,Felony,1,187353,0.53
+2005,Yolo,Accidental,0,187353,0.0
+2005,Yuba,All Combined,0,67710,0.0
+2005,Yuba,Felony,0,67710,0.0
+2005,Yuba,Accidental,0,67710,0.0
+2006,Alameda,All Combined,1,1464837,0.07
+2006,Alameda,Felony,0,1464837,0.0
+2006,Alameda,Accidental,1,1464837,0.07
+2006,All Combined,All Combined,11,36246829,0.03
+2006,All Combined,Felony,5,36246829,0.01
+2006,All Combined,Accidental,6,36246829,0.02
+2006,Alpine,All Combined,0,1255,0.0
+2006,Alpine,Felony,0,1255,0.0
+2006,Alpine,Accidental,0,1255,0.0
+2006,Amador,All Combined,0,37966,0.0
+2006,Amador,Felony,0,37966,0.0
+2006,Amador,Accidental,0,37966,0.0
+2006,Butte,All Combined,0,215684,0.0
+2006,Butte,Felony,0,215684,0.0
+2006,Butte,Accidental,0,215684,0.0
+2006,Calaveras,All Combined,0,45314,0.0
+2006,Calaveras,Felony,0,45314,0.0
+2006,Calaveras,Accidental,0,45314,0.0
+2006,Colusa,All Combined,0,20892,0.0
+2006,Colusa,Felony,0,20892,0.0
+2006,Colusa,Accidental,0,20892,0.0
+2006,Contra Costa,All Combined,0,1010103,0.0
+2006,Contra Costa,Felony,0,1010103,0.0
+2006,Contra Costa,Accidental,0,1010103,0.0
+2006,Del Norte,All Combined,0,28277,0.0
+2006,Del Norte,Felony,0,28277,0.0
+2006,Del Norte,Accidental,0,28277,0.0
+2006,El Dorado,All Combined,0,175261,0.0
+2006,El Dorado,Felony,0,175261,0.0
+2006,El Dorado,Accidental,0,175261,0.0
+2006,Fresno,All Combined,0,886376,0.0
+2006,Fresno,Felony,0,886376,0.0
+2006,Fresno,Accidental,0,886376,0.0
+2006,Glenn,All Combined,0,27732,0.0
+2006,Glenn,Felony,0,27732,0.0
+2006,Glenn,Accidental,0,27732,0.0
+2006,Humboldt,All Combined,0,132226,0.0
+2006,Humboldt,Felony,0,132226,0.0
+2006,Humboldt,Accidental,0,132226,0.0
+2006,Imperial,All Combined,0,162535,0.0
+2006,Imperial,Felony,0,162535,0.0
+2006,Imperial,Accidental,0,162535,0.0
+2006,Inyo,All Combined,0,18420,0.0
+2006,Inyo,Felony,0,18420,0.0
+2006,Inyo,Accidental,0,18420,0.0
+2006,Kern,All Combined,1,786219,0.13
+2006,Kern,Felony,0,786219,0.0
+2006,Kern,Accidental,1,786219,0.13
+2006,Kings,All Combined,0,147495,0.0
+2006,Kings,Felony,0,147495,0.0
+2006,Kings,Accidental,0,147495,0.0
+2006,Lake,All Combined,0,63791,0.0
+2006,Lake,Felony,0,63791,0.0
+2006,Lake,Accidental,0,63791,0.0
+2006,Lassen,All Combined,0,35013,0.0
+2006,Lassen,Felony,0,35013,0.0
+2006,Lassen,Accidental,0,35013,0.0
+2006,Los Angeles,All Combined,2,9787326,0.02
+2006,Los Angeles,Felony,0,9787326,0.0
+2006,Los Angeles,Accidental,2,9787326,0.02
+2006,Madera,All Combined,0,143526,0.0
+2006,Madera,Felony,0,143526,0.0
+2006,Madera,Accidental,0,143526,0.0
+2006,Marin,All Combined,0,247245,0.0
+2006,Marin,Felony,0,247245,0.0
+2006,Marin,Accidental,0,247245,0.0
+2006,Mariposa,All Combined,0,18246,0.0
+2006,Mariposa,Felony,0,18246,0.0
+2006,Mariposa,Accidental,0,18246,0.0
+2006,Mendocino,All Combined,0,87584,0.0
+2006,Mendocino,Felony,0,87584,0.0
+2006,Mendocino,Accidental,0,87584,0.0
+2006,Merced,All Combined,0,245556,0.0
+2006,Merced,Felony,0,245556,0.0
+2006,Merced,Accidental,0,245556,0.0
+2006,Modoc,All Combined,0,9641,0.0
+2006,Modoc,Felony,0,9641,0.0
+2006,Modoc,Accidental,0,9641,0.0
+2006,Mono,All Combined,0,14152,0.0
+2006,Mono,Felony,0,14152,0.0
+2006,Mono,Accidental,0,14152,0.0
+2006,Monterey,All Combined,0,405877,0.0
+2006,Monterey,Felony,0,405877,0.0
+2006,Monterey,Accidental,0,405877,0.0
+2006,Napa,All Combined,0,131921,0.0
+2006,Napa,Felony,0,131921,0.0
+2006,Napa,Accidental,0,131921,0.0
+2006,Nevada,All Combined,0,98333,0.0
+2006,Nevada,Felony,0,98333,0.0
+2006,Nevada,Accidental,0,98333,0.0
+2006,Orange,All Combined,0,2955432,0.0
+2006,Orange,Felony,0,2955432,0.0
+2006,Orange,Accidental,0,2955432,0.0
+2006,Placer,All Combined,0,322269,0.0
+2006,Placer,Felony,0,322269,0.0
+2006,Placer,Accidental,0,322269,0.0
+2006,Plumas,All Combined,0,20709,0.0
+2006,Plumas,Felony,0,20709,0.0
+2006,Plumas,Accidental,0,20709,0.0
+2006,Riverside,All Combined,0,2017350,0.0
+2006,Riverside,Felony,0,2017350,0.0
+2006,Riverside,Accidental,0,2017350,0.0
+2006,Sacramento,All Combined,1,1372276,0.07
+2006,Sacramento,Felony,1,1372276,0.07
+2006,Sacramento,Accidental,0,1372276,0.0
+2006,San Benito,All Combined,0,54896,0.0
+2006,San Benito,Felony,0,54896,0.0
+2006,San Benito,Accidental,0,54896,0.0
+2006,San Bernardino,All Combined,1,1976769,0.05
+2006,San Bernardino,Felony,0,1976769,0.0
+2006,San Bernardino,Accidental,1,1976769,0.05
+2006,San Diego,All Combined,1,2982817,0.03
+2006,San Diego,Felony,1,2982817,0.03
+2006,San Diego,Accidental,0,2982817,0.0
+2006,San Francisco,All Combined,2,782928,0.26
+2006,San Francisco,Felony,1,782928,0.13
+2006,San Francisco,Accidental,1,782928,0.13
+2006,San Joaquin,All Combined,0,660886,0.0
+2006,San Joaquin,Felony,0,660886,0.0
+2006,San Joaquin,Accidental,0,660886,0.0
+2006,San Luis Obispo,All Combined,0,261804,0.0
+2006,San Luis Obispo,Felony,0,261804,0.0
+2006,San Luis Obispo,Accidental,0,261804,0.0
+2006,San Mateo,All Combined,1,699397,0.14
+2006,San Mateo,Felony,1,699397,0.14
+2006,San Mateo,Accidental,0,699397,0.0
+2006,Santa Barbara,All Combined,0,412852,0.0
+2006,Santa Barbara,Felony,0,412852,0.0
+2006,Santa Barbara,Accidental,0,412852,0.0
+2006,Santa Clara,All Combined,0,1713840,0.0
+2006,Santa Clara,Felony,0,1713840,0.0
+2006,Santa Clara,Accidental,0,1713840,0.0
+2006,Santa Cruz,All Combined,0,255486,0.0
+2006,Santa Cruz,Felony,0,255486,0.0
+2006,Santa Cruz,Accidental,0,255486,0.0
+2006,Shasta,All Combined,0,175240,0.0
+2006,Shasta,Felony,0,175240,0.0
+2006,Shasta,Accidental,0,175240,0.0
+2006,Sierra,All Combined,0,3423,0.0
+2006,Sierra,Felony,0,3423,0.0
+2006,Sierra,Accidental,0,3423,0.0
+2006,Siskiyou,All Combined,0,44889,0.0
+2006,Siskiyou,Felony,0,44889,0.0
+2006,Siskiyou,Accidental,0,44889,0.0
+2006,Solano,All Combined,0,411351,0.0
+2006,Solano,Felony,0,411351,0.0
+2006,Solano,Accidental,0,411351,0.0
+2006,Sonoma,All Combined,0,469967,0.0
+2006,Sonoma,Felony,0,469967,0.0
+2006,Sonoma,Accidental,0,469967,0.0
+2006,Stanislaus,All Combined,1,503548,0.2
+2006,Stanislaus,Felony,1,503548,0.2
+2006,Stanislaus,Accidental,0,503548,0.0
+2006,Sutter,All Combined,0,90629,0.0
+2006,Sutter,Felony,0,90629,0.0
+2006,Sutter,Accidental,0,90629,0.0
+2006,Tehama,All Combined,0,61541,0.0
+2006,Tehama,Felony,0,61541,0.0
+2006,Tehama,Accidental,0,61541,0.0
+2006,Trinity,All Combined,0,13824,0.0
+2006,Trinity,Felony,0,13824,0.0
+2006,Trinity,Accidental,0,13824,0.0
+2006,Tulare,All Combined,0,416094,0.0
+2006,Tulare,Felony,0,416094,0.0
+2006,Tulare,Accidental,0,416094,0.0
+2006,Tuolumne,All Combined,0,56557,0.0
+2006,Tuolumne,Felony,0,56557,0.0
+2006,Tuolumne,Accidental,0,56557,0.0
+2006,Ventura,All Combined,0,801225,0.0
+2006,Ventura,Felony,0,801225,0.0
+2006,Ventura,Accidental,0,801225,0.0
+2006,Yolo,All Combined,0,190810,0.0
+2006,Yolo,Felony,0,190810,0.0
+2006,Yolo,Accidental,0,190810,0.0
+2006,Yuba,All Combined,0,69217,0.0
+2006,Yuba,Felony,0,69217,0.0
+2006,Yuba,Accidental,0,69217,0.0
+2007,Alameda,All Combined,1,1476400,0.07
+2007,Alameda,Felony,0,1476400,0.0
+2007,Alameda,Accidental,1,1476400,0.07
+2007,All Combined,All Combined,9,36552543,0.02
+2007,All Combined,Felony,4,36552543,0.01
+2007,All Combined,Accidental,5,36552543,0.01
+2007,Alpine,All Combined,0,1249,0.0
+2007,Alpine,Felony,0,1249,0.0
+2007,Alpine,Accidental,0,1249,0.0
+2007,Amador,All Combined,0,38085,0.0
+2007,Amador,Felony,0,38085,0.0
+2007,Amador,Accidental,0,38085,0.0
+2007,Butte,All Combined,0,217113,0.0
+2007,Butte,Felony,0,217113,0.0
+2007,Butte,Accidental,0,217113,0.0
+2007,Calaveras,All Combined,0,45638,0.0
+2007,Calaveras,Felony,0,45638,0.0
+2007,Calaveras,Accidental,0,45638,0.0
+2007,Colusa,All Combined,0,21118,0.0
+2007,Colusa,Felony,0,21118,0.0
+2007,Colusa,Accidental,0,21118,0.0
+2007,Contra Costa,All Combined,0,1021253,0.0
+2007,Contra Costa,Felony,0,1021253,0.0
+2007,Contra Costa,Accidental,0,1021253,0.0
+2007,Del Norte,All Combined,0,28480,0.0
+2007,Del Norte,Felony,0,28480,0.0
+2007,Del Norte,Accidental,0,28480,0.0
+2007,El Dorado,All Combined,1,177197,0.56
+2007,El Dorado,Felony,1,177197,0.56
+2007,El Dorado,Accidental,0,177197,0.0
+2007,Fresno,All Combined,0,899828,0.0
+2007,Fresno,Felony,0,899828,0.0
+2007,Fresno,Accidental,0,899828,0.0
+2007,Glenn,All Combined,0,28014,0.0
+2007,Glenn,Felony,0,28014,0.0
+2007,Glenn,Accidental,0,28014,0.0
+2007,Humboldt,All Combined,0,132658,0.0
+2007,Humboldt,Felony,0,132658,0.0
+2007,Humboldt,Accidental,0,132658,0.0
+2007,Imperial,All Combined,1,166895,0.6
+2007,Imperial,Felony,0,166895,0.0
+2007,Imperial,Accidental,1,166895,0.6
+2007,Inyo,All Combined,0,18449,0.0
+2007,Inyo,Felony,0,18449,0.0
+2007,Inyo,Accidental,0,18449,0.0
+2007,Kern,All Combined,0,805799,0.0
+2007,Kern,Felony,0,805799,0.0
+2007,Kern,Accidental,0,805799,0.0
+2007,Kings,All Combined,0,150378,0.0
+2007,Kings,Felony,0,150378,0.0
+2007,Kings,Accidental,0,150378,0.0
+2007,Lake,All Combined,0,63987,0.0
+2007,Lake,Felony,0,63987,0.0
+2007,Lake,Accidental,0,63987,0.0
+2007,Lassen,All Combined,0,35749,0.0
+2007,Lassen,Felony,0,35749,0.0
+2007,Lassen,Accidental,0,35749,0.0
+2007,Los Angeles,All Combined,1,9773893,0.01
+2007,Los Angeles,Felony,0,9773893,0.0
+2007,Los Angeles,Accidental,1,9773893,0.01
+2007,Madera,All Combined,0,146808,0.0
+2007,Madera,Felony,0,146808,0.0
+2007,Madera,Accidental,0,146808,0.0
+2007,Marin,All Combined,0,248801,0.0
+2007,Marin,Felony,0,248801,0.0
+2007,Marin,Accidental,0,248801,0.0
+2007,Mariposa,All Combined,0,18375,0.0
+2007,Mariposa,Felony,0,18375,0.0
+2007,Mariposa,Accidental,0,18375,0.0
+2007,Mendocino,All Combined,0,87645,0.0
+2007,Mendocino,Felony,0,87645,0.0
+2007,Mendocino,Accidental,0,87645,0.0
+2007,Merced,All Combined,0,249541,0.0
+2007,Merced,Felony,0,249541,0.0
+2007,Merced,Accidental,0,249541,0.0
+2007,Modoc,All Combined,0,9590,0.0
+2007,Modoc,Felony,0,9590,0.0
+2007,Modoc,Accidental,0,9590,0.0
+2007,Mono,All Combined,0,14212,0.0
+2007,Mono,Felony,0,14212,0.0
+2007,Mono,Accidental,0,14212,0.0
+2007,Monterey,All Combined,0,407896,0.0
+2007,Monterey,Felony,0,407896,0.0
+2007,Monterey,Accidental,0,407896,0.0
+2007,Napa,All Combined,0,133156,0.0
+2007,Napa,Felony,0,133156,0.0
+2007,Napa,Accidental,0,133156,0.0
+2007,Nevada,All Combined,0,98480,0.0
+2007,Nevada,Felony,0,98480,0.0
+2007,Nevada,Accidental,0,98480,0.0
+2007,Orange,All Combined,0,2965823,0.0
+2007,Orange,Felony,0,2965823,0.0
+2007,Orange,Accidental,0,2965823,0.0
+2007,Placer,All Combined,0,329718,0.0
+2007,Placer,Felony,0,329718,0.0
+2007,Placer,Accidental,0,329718,0.0
+2007,Plumas,All Combined,0,20594,0.0
+2007,Plumas,Felony,0,20594,0.0
+2007,Plumas,Accidental,0,20594,0.0
+2007,Riverside,All Combined,1,2082656,0.05
+2007,Riverside,Felony,0,2082656,0.0
+2007,Riverside,Accidental,1,2082656,0.05
+2007,Sacramento,All Combined,1,1388087,0.07
+2007,Sacramento,Felony,1,1388087,0.07
+2007,Sacramento,Accidental,0,1388087,0.0
+2007,San Benito,All Combined,0,55002,0.0
+2007,San Benito,Felony,0,55002,0.0
+2007,San Benito,Accidental,0,55002,0.0
+2007,San Bernardino,All Combined,1,2002648,0.05
+2007,San Bernardino,Felony,1,2002648,0.05
+2007,San Bernardino,Accidental,0,2002648,0.0
+2007,San Diego,All Combined,0,3014168,0.0
+2007,San Diego,Felony,0,3014168,0.0
+2007,San Diego,Accidental,0,3014168,0.0
+2007,San Francisco,All Combined,0,791332,0.0
+2007,San Francisco,Felony,0,791332,0.0
+2007,San Francisco,Accidental,0,791332,0.0
+2007,San Joaquin,All Combined,1,669739,0.15
+2007,San Joaquin,Felony,0,669739,0.0
+2007,San Joaquin,Accidental,1,669739,0.15
+2007,San Luis Obispo,All Combined,0,264161,0.0
+2007,San Luis Obispo,Felony,0,264161,0.0
+2007,San Luis Obispo,Accidental,0,264161,0.0
+2007,San Mateo,All Combined,0,704271,0.0
+2007,San Mateo,Felony,0,704271,0.0
+2007,San Mateo,Accidental,0,704271,0.0
+2007,Santa Barbara,All Combined,0,416648,0.0
+2007,Santa Barbara,Felony,0,416648,0.0
+2007,Santa Barbara,Accidental,0,416648,0.0
+2007,Santa Clara,All Combined,0,1736327,0.0
+2007,Santa Clara,Felony,0,1736327,0.0
+2007,Santa Clara,Accidental,0,1736327,0.0
+2007,Santa Cruz,All Combined,0,257602,0.0
+2007,Santa Cruz,Felony,0,257602,0.0
+2007,Santa Cruz,Accidental,0,257602,0.0
+2007,Shasta,All Combined,0,175849,0.0
+2007,Shasta,Felony,0,175849,0.0
+2007,Shasta,Accidental,0,175849,0.0
+2007,Sierra,All Combined,0,3344,0.0
+2007,Sierra,Felony,0,3344,0.0
+2007,Sierra,Accidental,0,3344,0.0
+2007,Siskiyou,All Combined,0,44861,0.0
+2007,Siskiyou,Felony,0,44861,0.0
+2007,Siskiyou,Accidental,0,44861,0.0
+2007,Solano,All Combined,0,412635,0.0
+2007,Solano,Felony,0,412635,0.0
+2007,Solano,Accidental,0,412635,0.0
+2007,Sonoma,All Combined,0,472987,0.0
+2007,Sonoma,Felony,0,472987,0.0
+2007,Sonoma,Accidental,0,472987,0.0
+2007,Stanislaus,All Combined,0,508375,0.0
+2007,Stanislaus,Felony,0,508375,0.0
+2007,Stanislaus,Accidental,0,508375,0.0
+2007,Sutter,All Combined,0,92502,0.0
+2007,Sutter,Felony,0,92502,0.0
+2007,Sutter,Accidental,0,92502,0.0
+2007,Tehama,All Combined,0,62011,0.0
+2007,Tehama,Felony,0,62011,0.0
+2007,Tehama,Accidental,0,62011,0.0
+2007,Trinity,All Combined,0,13790,0.0
+2007,Trinity,Felony,0,13790,0.0
+2007,Trinity,Accidental,0,13790,0.0
+2007,Tulare,All Combined,1,423608,0.24
+2007,Tulare,Felony,1,423608,0.24
+2007,Tulare,Accidental,0,423608,0.0
+2007,Tuolumne,All Combined,0,56132,0.0
+2007,Tuolumne,Felony,0,56132,0.0
+2007,Tuolumne,Accidental,0,56132,0.0
+2007,Ventura,All Combined,0,805912,0.0
+2007,Ventura,Felony,0,805912,0.0
+2007,Ventura,Accidental,0,805912,0.0
+2007,Yolo,All Combined,0,194854,0.0
+2007,Yolo,Felony,0,194854,0.0
+2007,Yolo,Accidental,0,194854,0.0
+2007,Yuba,All Combined,0,70220,0.0
+2007,Yuba,Felony,0,70220,0.0
+2007,Yuba,Accidental,0,70220,0.0
+2008,Alameda,All Combined,0,1491781,0.0
+2008,Alameda,Felony,0,1491781,0.0
+2008,Alameda,Accidental,0,1491781,0.0
+2008,All Combined,All Combined,10,36856229,0.03
+2008,All Combined,Felony,3,36856229,0.01
+2008,All Combined,Accidental,7,36856229,0.02
+2008,Alpine,All Combined,0,1208,0.0
+2008,Alpine,Felony,0,1208,0.0
+2008,Alpine,Accidental,0,1208,0.0
+2008,Amador,All Combined,0,37867,0.0
+2008,Amador,Felony,0,37867,0.0
+2008,Amador,Accidental,0,37867,0.0
+2008,Butte,All Combined,0,218485,0.0
+2008,Butte,Felony,0,218485,0.0
+2008,Butte,Accidental,0,218485,0.0
+2008,Calaveras,All Combined,0,45700,0.0
+2008,Calaveras,Felony,0,45700,0.0
+2008,Calaveras,Accidental,0,45700,0.0
+2008,Colusa,All Combined,0,21174,0.0
+2008,Colusa,Felony,0,21174,0.0
+2008,Colusa,Accidental,0,21174,0.0
+2008,Contra Costa,All Combined,2,1033291,0.19
+2008,Contra Costa,Felony,1,1033291,0.1
+2008,Contra Costa,Accidental,1,1033291,0.1
+2008,Del Norte,All Combined,0,28573,0.0
+2008,Del Norte,Felony,0,28573,0.0
+2008,Del Norte,Accidental,0,28573,0.0
+2008,El Dorado,All Combined,0,178598,0.0
+2008,El Dorado,Felony,0,178598,0.0
+2008,El Dorado,Accidental,0,178598,0.0
+2008,Fresno,All Combined,0,913238,0.0
+2008,Fresno,Felony,0,913238,0.0
+2008,Fresno,Accidental,0,913238,0.0
+2008,Glenn,All Combined,0,28118,0.0
+2008,Glenn,Felony,0,28118,0.0
+2008,Glenn,Accidental,0,28118,0.0
+2008,Humboldt,All Combined,0,133202,0.0
+2008,Humboldt,Felony,0,133202,0.0
+2008,Humboldt,Accidental,0,133202,0.0
+2008,Imperial,All Combined,0,170103,0.0
+2008,Imperial,Felony,0,170103,0.0
+2008,Imperial,Accidental,0,170103,0.0
+2008,Inyo,All Combined,0,18384,0.0
+2008,Inyo,Felony,0,18384,0.0
+2008,Inyo,Accidental,0,18384,0.0
+2008,Kern,All Combined,1,819891,0.12
+2008,Kern,Felony,0,819891,0.0
+2008,Kern,Accidental,1,819891,0.12
+2008,Kings,All Combined,0,151833,0.0
+2008,Kings,Felony,0,151833,0.0
+2008,Kings,Accidental,0,151833,0.0
+2008,Lake,All Combined,0,64371,0.0
+2008,Lake,Felony,0,64371,0.0
+2008,Lake,Accidental,0,64371,0.0
+2008,Lassen,All Combined,0,35120,0.0
+2008,Lassen,Felony,0,35120,0.0
+2008,Lassen,Accidental,0,35120,0.0
+2008,Los Angeles,All Combined,4,9796811,0.04
+2008,Los Angeles,Felony,1,9796811,0.01
+2008,Los Angeles,Accidental,3,9796811,0.03
+2008,Madera,All Combined,0,149114,0.0
+2008,Madera,Felony,0,149114,0.0
+2008,Madera,Accidental,0,149114,0.0
+2008,Marin,All Combined,0,250289,0.0
+2008,Marin,Felony,0,250289,0.0
+2008,Marin,Accidental,0,250289,0.0
+2008,Mariposa,All Combined,0,18386,0.0
+2008,Mariposa,Felony,0,18386,0.0
+2008,Mariposa,Accidental,0,18386,0.0
+2008,Mendocino,All Combined,0,87782,0.0
+2008,Mendocino,Felony,0,87782,0.0
+2008,Mendocino,Accidental,0,87782,0.0
+2008,Merced,All Combined,0,251933,0.0
+2008,Merced,Felony,0,251933,0.0
+2008,Merced,Accidental,0,251933,0.0
+2008,Modoc,All Combined,0,9622,0.0
+2008,Modoc,Felony,0,9622,0.0
+2008,Modoc,Accidental,0,9622,0.0
+2008,Mono,All Combined,0,14072,0.0
+2008,Mono,Felony,0,14072,0.0
+2008,Mono,Accidental,0,14072,0.0
+2008,Monterey,All Combined,0,410878,0.0
+2008,Monterey,Felony,0,410878,0.0
+2008,Monterey,Accidental,0,410878,0.0
+2008,Napa,All Combined,0,134787,0.0
+2008,Napa,Felony,0,134787,0.0
+2008,Napa,Accidental,0,134787,0.0
+2008,Nevada,All Combined,0,98679,0.0
+2008,Nevada,Felony,0,98679,0.0
+2008,Nevada,Accidental,0,98679,0.0
+2008,Orange,All Combined,0,2982789,0.0
+2008,Orange,Felony,0,2982789,0.0
+2008,Orange,Accidental,0,2982789,0.0
+2008,Placer,All Combined,0,337915,0.0
+2008,Placer,Felony,0,337915,0.0
+2008,Placer,Accidental,0,337915,0.0
+2008,Plumas,All Combined,0,20369,0.0
+2008,Plumas,Felony,0,20369,0.0
+2008,Plumas,Accidental,0,20369,0.0
+2008,Riverside,All Combined,1,2122920,0.05
+2008,Riverside,Felony,0,2122920,0.0
+2008,Riverside,Accidental,1,2122920,0.05
+2008,Sacramento,All Combined,1,1400938,0.07
+2008,Sacramento,Felony,0,1400938,0.0
+2008,Sacramento,Accidental,1,1400938,0.07
+2008,San Benito,All Combined,0,55043,0.0
+2008,San Benito,Felony,0,55043,0.0
+2008,San Benito,Accidental,0,55043,0.0
+2008,San Bernardino,All Combined,0,2016526,0.0
+2008,San Bernardino,Felony,0,2016526,0.0
+2008,San Bernardino,Accidental,0,2016526,0.0
+2008,San Diego,All Combined,0,3051262,0.0
+2008,San Diego,Felony,0,3051262,0.0
+2008,San Diego,Accidental,0,3051262,0.0
+2008,San Francisco,All Combined,0,798672,0.0
+2008,San Francisco,Felony,0,798672,0.0
+2008,San Francisco,Accidental,0,798672,0.0
+2008,San Joaquin,All Combined,0,675247,0.0
+2008,San Joaquin,Felony,0,675247,0.0
+2008,San Joaquin,Accidental,0,675247,0.0
+2008,San Luis Obispo,All Combined,0,266849,0.0
+2008,San Luis Obispo,Felony,0,266849,0.0
+2008,San Luis Obispo,Accidental,0,266849,0.0
+2008,San Mateo,All Combined,0,711373,0.0
+2008,San Mateo,Felony,0,711373,0.0
+2008,San Mateo,Accidental,0,711373,0.0
+2008,Santa Barbara,All Combined,0,419971,0.0
+2008,Santa Barbara,Felony,0,419971,0.0
+2008,Santa Barbara,Accidental,0,419971,0.0
+2008,Santa Clara,All Combined,0,1759535,0.0
+2008,Santa Clara,Felony,0,1759535,0.0
+2008,Santa Clara,Accidental,0,1759535,0.0
+2008,Santa Cruz,All Combined,0,259872,0.0
+2008,Santa Cruz,Felony,0,259872,0.0
+2008,Santa Cruz,Accidental,0,259872,0.0
+2008,Shasta,All Combined,0,176631,0.0
+2008,Shasta,Felony,0,176631,0.0
+2008,Shasta,Accidental,0,176631,0.0
+2008,Sierra,All Combined,0,3284,0.0
+2008,Sierra,Felony,0,3284,0.0
+2008,Sierra,Accidental,0,3284,0.0
+2008,Siskiyou,All Combined,0,45040,0.0
+2008,Siskiyou,Felony,0,45040,0.0
+2008,Siskiyou,Accidental,0,45040,0.0
+2008,Solano,All Combined,0,413168,0.0
+2008,Solano,Felony,0,413168,0.0
+2008,Solano,Accidental,0,413168,0.0
+2008,Sonoma,All Combined,0,476649,0.0
+2008,Sonoma,Felony,0,476649,0.0
+2008,Sonoma,Accidental,0,476649,0.0
+2008,Stanislaus,All Combined,0,510395,0.0
+2008,Stanislaus,Felony,0,510395,0.0
+2008,Stanislaus,Accidental,0,510395,0.0
+2008,Sutter,All Combined,0,93466,0.0
+2008,Sutter,Felony,0,93466,0.0
+2008,Sutter,Accidental,0,93466,0.0
+2008,Tehama,All Combined,0,62723,0.0
+2008,Tehama,Felony,0,62723,0.0
+2008,Tehama,Accidental,0,62723,0.0
+2008,Trinity,All Combined,0,13730,0.0
+2008,Trinity,Felony,0,13730,0.0
+2008,Trinity,Accidental,0,13730,0.0
+2008,Tulare,All Combined,0,431474,0.0
+2008,Tulare,Felony,0,431474,0.0
+2008,Tulare,Accidental,0,431474,0.0
+2008,Tuolumne,All Combined,0,56061,0.0
+2008,Tuolumne,Felony,0,56061,0.0
+2008,Tuolumne,Accidental,0,56061,0.0
+2008,Ventura,All Combined,0,812026,0.0
+2008,Ventura,Felony,0,812026,0.0
+2008,Ventura,Accidental,0,812026,0.0
+2008,Yolo,All Combined,1,197588,0.51
+2008,Yolo,Felony,1,197588,0.51
+2008,Yolo,Accidental,0,197588,0.0
+2008,Yuba,All Combined,0,71423,0.0
+2008,Yuba,Felony,0,71423,0.0
+2008,Yuba,Accidental,0,71423,0.0
+2009,Alameda,All Combined,4,1503827,0.27
+2009,Alameda,Felony,4,1503827,0.27
+2009,Alameda,Accidental,0,1503827,0.0
+2009,All Combined,All Combined,6,37077220,0.02
+2009,All Combined,Felony,4,37077220,0.01
+2009,All Combined,Accidental,2,37077220,0.01
+2009,Alpine,All Combined,0,1178,0.0
+2009,Alpine,Felony,0,1178,0.0
+2009,Alpine,Accidental,0,1178,0.0
+2009,Amador,All Combined,0,37905,0.0
+2009,Amador,Felony,0,37905,0.0
+2009,Amador,Accidental,0,37905,0.0
+2009,Butte,All Combined,0,219287,0.0
+2009,Butte,Felony,0,219287,0.0
+2009,Butte,Accidental,0,219287,0.0
+2009,Calaveras,All Combined,0,45563,0.0
+2009,Calaveras,Felony,0,45563,0.0
+2009,Calaveras,Accidental,0,45563,0.0
+2009,Colusa,All Combined,0,21271,0.0
+2009,Colusa,Felony,0,21271,0.0
+2009,Colusa,Accidental,0,21271,0.0
+2009,Contra Costa,All Combined,0,1043502,0.0
+2009,Contra Costa,Felony,0,1043502,0.0
+2009,Contra Costa,Accidental,0,1043502,0.0
+2009,Del Norte,All Combined,0,28559,0.0
+2009,Del Norte,Felony,0,28559,0.0
+2009,Del Norte,Accidental,0,28559,0.0
+2009,El Dorado,All Combined,0,179701,0.0
+2009,El Dorado,Felony,0,179701,0.0
+2009,El Dorado,Accidental,0,179701,0.0
+2009,Fresno,All Combined,0,923895,0.0
+2009,Fresno,Felony,0,923895,0.0
+2009,Fresno,Accidental,0,923895,0.0
+2009,Glenn,All Combined,0,28058,0.0
+2009,Glenn,Felony,0,28058,0.0
+2009,Glenn,Accidental,0,28058,0.0
+2009,Humboldt,All Combined,0,133766,0.0
+2009,Humboldt,Felony,0,133766,0.0
+2009,Humboldt,Accidental,0,133766,0.0
+2009,Imperial,All Combined,0,173241,0.0
+2009,Imperial,Felony,0,173241,0.0
+2009,Imperial,Accidental,0,173241,0.0
+2009,Inyo,All Combined,0,18449,0.0
+2009,Inyo,Felony,0,18449,0.0
+2009,Inyo,Accidental,0,18449,0.0
+2009,Kern,All Combined,0,831136,0.0
+2009,Kern,Felony,0,831136,0.0
+2009,Kern,Accidental,0,831136,0.0
+2009,Kings,All Combined,0,151794,0.0
+2009,Kings,Felony,0,151794,0.0
+2009,Kings,Accidental,0,151794,0.0
+2009,Lake,All Combined,0,64396,0.0
+2009,Lake,Felony,0,64396,0.0
+2009,Lake,Accidental,0,64396,0.0
+2009,Lassen,All Combined,0,34773,0.0
+2009,Lassen,Felony,0,34773,0.0
+2009,Lassen,Accidental,0,34773,0.0
+2009,Los Angeles,All Combined,1,9805230,0.01
+2009,Los Angeles,Felony,0,9805230,0.0
+2009,Los Angeles,Accidental,1,9805230,0.01
+2009,Madera,All Combined,0,150150,0.0
+2009,Madera,Felony,0,150150,0.0
+2009,Madera,Accidental,0,150150,0.0
+2009,Marin,All Combined,0,251229,0.0
+2009,Marin,Felony,0,251229,0.0
+2009,Marin,Accidental,0,251229,0.0
+2009,Mariposa,All Combined,0,18282,0.0
+2009,Mariposa,Felony,0,18282,0.0
+2009,Mariposa,Accidental,0,18282,0.0
+2009,Mendocino,All Combined,0,87570,0.0
+2009,Mendocino,Felony,0,87570,0.0
+2009,Mendocino,Accidental,0,87570,0.0
+2009,Merced,All Combined,0,254122,0.0
+2009,Merced,Felony,0,254122,0.0
+2009,Merced,Accidental,0,254122,0.0
+2009,Modoc,All Combined,0,9633,0.0
+2009,Modoc,Felony,0,9633,0.0
+2009,Modoc,Accidental,0,9633,0.0
+2009,Mono,All Combined,0,14076,0.0
+2009,Mono,Felony,0,14076,0.0
+2009,Mono,Accidental,0,14076,0.0
+2009,Monterey,All Combined,0,413593,0.0
+2009,Monterey,Felony,0,413593,0.0
+2009,Monterey,Accidental,0,413593,0.0
+2009,Napa,All Combined,0,135664,0.0
+2009,Napa,Felony,0,135664,0.0
+2009,Napa,Accidental,0,135664,0.0
+2009,Nevada,All Combined,0,98432,0.0
+2009,Nevada,Felony,0,98432,0.0
+2009,Nevada,Accidental,0,98432,0.0
+2009,Orange,All Combined,0,2998815,0.0
+2009,Orange,Felony,0,2998815,0.0
+2009,Orange,Accidental,0,2998815,0.0
+2009,Placer,All Combined,0,344089,0.0
+2009,Placer,Felony,0,344089,0.0
+2009,Placer,Accidental,0,344089,0.0
+2009,Plumas,All Combined,0,20065,0.0
+2009,Plumas,Felony,0,20065,0.0
+2009,Plumas,Accidental,0,20065,0.0
+2009,Riverside,All Combined,0,2158399,0.0
+2009,Riverside,Felony,0,2158399,0.0
+2009,Riverside,Accidental,0,2158399,0.0
+2009,Sacramento,All Combined,0,1411404,0.0
+2009,Sacramento,Felony,0,1411404,0.0
+2009,Sacramento,Accidental,0,1411404,0.0
+2009,San Benito,All Combined,0,55092,0.0
+2009,San Benito,Felony,0,55092,0.0
+2009,San Benito,Accidental,0,55092,0.0
+2009,San Bernardino,All Combined,0,2022321,0.0
+2009,San Bernardino,Felony,0,2022321,0.0
+2009,San Bernardino,Accidental,0,2022321,0.0
+2009,San Diego,All Combined,0,3077635,0.0
+2009,San Diego,Felony,0,3077635,0.0
+2009,San Diego,Accidental,0,3077635,0.0
+2009,San Francisco,All Combined,0,801799,0.0
+2009,San Francisco,Felony,0,801799,0.0
+2009,San Francisco,Accidental,0,801799,0.0
+2009,San Joaquin,All Combined,0,680421,0.0
+2009,San Joaquin,Felony,0,680421,0.0
+2009,San Joaquin,Accidental,0,680421,0.0
+2009,San Luis Obispo,All Combined,0,268224,0.0
+2009,San Luis Obispo,Felony,0,268224,0.0
+2009,San Luis Obispo,Accidental,0,268224,0.0
+2009,San Mateo,All Combined,0,716263,0.0
+2009,San Mateo,Felony,0,716263,0.0
+2009,San Mateo,Accidental,0,716263,0.0
+2009,Santa Barbara,All Combined,0,422423,0.0
+2009,Santa Barbara,Felony,0,422423,0.0
+2009,Santa Barbara,Accidental,0,422423,0.0
+2009,Santa Clara,All Combined,0,1774891,0.0
+2009,Santa Clara,Felony,0,1774891,0.0
+2009,Santa Clara,Accidental,0,1774891,0.0
+2009,Santa Cruz,All Combined,0,261912,0.0
+2009,Santa Cruz,Felony,0,261912,0.0
+2009,Santa Cruz,Accidental,0,261912,0.0
+2009,Shasta,All Combined,0,176882,0.0
+2009,Shasta,Felony,0,176882,0.0
+2009,Shasta,Accidental,0,176882,0.0
+2009,Sierra,All Combined,0,3241,0.0
+2009,Sierra,Felony,0,3241,0.0
+2009,Sierra,Accidental,0,3241,0.0
+2009,Siskiyou,All Combined,0,44951,0.0
+2009,Siskiyou,Felony,0,44951,0.0
+2009,Siskiyou,Accidental,0,44951,0.0
+2009,Solano,All Combined,0,412488,0.0
+2009,Solano,Felony,0,412488,0.0
+2009,Solano,Accidental,0,412488,0.0
+2009,Sonoma,All Combined,0,480598,0.0
+2009,Sonoma,Felony,0,480598,0.0
+2009,Sonoma,Accidental,0,480598,0.0
+2009,Stanislaus,All Combined,0,512053,0.0
+2009,Stanislaus,Felony,0,512053,0.0
+2009,Stanislaus,Accidental,0,512053,0.0
+2009,Sutter,All Combined,0,94371,0.0
+2009,Sutter,Felony,0,94371,0.0
+2009,Sutter,Accidental,0,94371,0.0
+2009,Tehama,All Combined,0,63122,0.0
+2009,Tehama,Felony,0,63122,0.0
+2009,Tehama,Accidental,0,63122,0.0
+2009,Trinity,All Combined,0,13772,0.0
+2009,Trinity,Felony,0,13772,0.0
+2009,Trinity,Accidental,0,13772,0.0
+2009,Tulare,All Combined,1,438408,0.23
+2009,Tulare,Felony,0,438408,0.0
+2009,Tulare,Accidental,1,438408,0.23
+2009,Tuolumne,All Combined,0,55257,0.0
+2009,Tuolumne,Felony,0,55257,0.0
+2009,Tuolumne,Accidental,0,55257,0.0
+2009,Ventura,All Combined,0,818545,0.0
+2009,Ventura,Felony,0,818545,0.0
+2009,Ventura,Accidental,0,818545,0.0
+2009,Yolo,All Combined,0,199699,0.0
+2009,Yolo,Felony,0,199699,0.0
+2009,Yolo,Accidental,0,199699,0.0
+2009,Yuba,All Combined,0,71798,0.0
+2009,Yuba,Felony,0,71798,0.0
+2009,Yuba,Accidental,0,71798,0.0
+2010,Alameda,All Combined,0,1513005,0.0
+2010,Alameda,Felony,0,1513005,0.0
+2010,Alameda,Accidental,0,1513005,0.0
+2010,All Combined,All Combined,10,37341978,0.03
+2010,All Combined,Felony,4,37341978,0.01
+2010,All Combined,Accidental,6,37341978,0.02
+2010,Alpine,All Combined,0,1233,0.0
+2010,Alpine,Felony,0,1233,0.0
+2010,Alpine,Accidental,0,1233,0.0
+2010,Amador,All Combined,0,38487,0.0
+2010,Amador,Felony,0,38487,0.0
+2010,Amador,Accidental,0,38487,0.0
+2010,Butte,All Combined,0,220273,0.0
+2010,Butte,Felony,0,220273,0.0
+2010,Butte,Accidental,0,220273,0.0
+2010,Calaveras,All Combined,0,45654,0.0
+2010,Calaveras,Felony,0,45654,0.0
+2010,Calaveras,Accidental,0,45654,0.0
+2010,Colusa,All Combined,0,21642,0.0
+2010,Colusa,Felony,0,21642,0.0
+2010,Colusa,Accidental,0,21642,0.0
+2010,Contra Costa,All Combined,0,1051553,0.0
+2010,Contra Costa,Felony,0,1051553,0.0
+2010,Contra Costa,Accidental,0,1051553,0.0
+2010,Del Norte,All Combined,0,28822,0.0
+2010,Del Norte,Felony,0,28822,0.0
+2010,Del Norte,Accidental,0,28822,0.0
+2010,El Dorado,All Combined,0,181567,0.0
+2010,El Dorado,Felony,0,181567,0.0
+2010,El Dorado,Accidental,0,181567,0.0
+2010,Fresno,All Combined,2,932969,0.21
+2010,Fresno,Felony,2,932969,0.21
+2010,Fresno,Accidental,0,932969,0.0
+2010,Glenn,All Combined,0,28292,0.0
+2010,Glenn,Felony,0,28292,0.0
+2010,Glenn,Accidental,0,28292,0.0
+2010,Humboldt,All Combined,0,136056,0.0
+2010,Humboldt,Felony,0,136056,0.0
+2010,Humboldt,Accidental,0,136056,0.0
+2010,Imperial,All Combined,0,175520,0.0
+2010,Imperial,Felony,0,175520,0.0
+2010,Imperial,Accidental,0,175520,0.0
+2010,Inyo,All Combined,0,18823,0.0
+2010,Inyo,Felony,0,18823,0.0
+2010,Inyo,Accidental,0,18823,0.0
+2010,Kern,All Combined,0,846568,0.0
+2010,Kern,Felony,0,846568,0.0
+2010,Kern,Accidental,0,846568,0.0
+2010,Kings,All Combined,0,154276,0.0
+2010,Kings,Felony,0,154276,0.0
+2010,Kings,Accidental,0,154276,0.0
+2010,Lake,All Combined,0,64854,0.0
+2010,Lake,Felony,0,64854,0.0
+2010,Lake,Accidental,0,64854,0.0
+2010,Lassen,All Combined,0,35030,0.0
+2010,Lassen,Felony,0,35030,0.0
+2010,Lassen,Accidental,0,35030,0.0
+2010,Los Angeles,All Combined,1,9824194,0.01
+2010,Los Angeles,Felony,0,9824194,0.0
+2010,Los Angeles,Accidental,1,9824194,0.01
+2010,Madera,All Combined,0,151466,0.0
+2010,Madera,Felony,0,151466,0.0
+2010,Madera,Accidental,0,151466,0.0
+2010,Marin,All Combined,0,252937,0.0
+2010,Marin,Felony,0,252937,0.0
+2010,Marin,Accidental,0,252937,0.0
+2010,Mariposa,All Combined,0,18332,0.0
+2010,Mariposa,Felony,0,18332,0.0
+2010,Mariposa,Accidental,0,18332,0.0
+2010,Mendocino,All Combined,0,88292,0.0
+2010,Mendocino,Felony,0,88292,0.0
+2010,Mendocino,Accidental,0,88292,0.0
+2010,Merced,All Combined,0,256800,0.0
+2010,Merced,Felony,0,256800,0.0
+2010,Merced,Accidental,0,256800,0.0
+2010,Modoc,All Combined,0,9802,0.0
+2010,Modoc,Felony,0,9802,0.0
+2010,Modoc,Accidental,0,9802,0.0
+2010,Mono,All Combined,0,14338,0.0
+2010,Mono,Felony,0,14338,0.0
+2010,Mono,Accidental,0,14338,0.0
+2010,Monterey,All Combined,0,416141,0.0
+2010,Monterey,Felony,0,416141,0.0
+2010,Monterey,Accidental,0,416141,0.0
+2010,Napa,All Combined,0,137579,0.0
+2010,Napa,Felony,0,137579,0.0
+2010,Napa,Accidental,0,137579,0.0
+2010,Nevada,All Combined,0,98938,0.0
+2010,Nevada,Felony,0,98938,0.0
+2010,Nevada,Accidental,0,98938,0.0
+2010,Orange,All Combined,0,3014996,0.0
+2010,Orange,Felony,0,3014996,0.0
+2010,Orange,Accidental,0,3014996,0.0
+2010,Placer,All Combined,0,350230,0.0
+2010,Placer,Felony,0,350230,0.0
+2010,Placer,Accidental,0,350230,0.0
+2010,Plumas,All Combined,0,20098,0.0
+2010,Plumas,Felony,0,20098,0.0
+2010,Plumas,Accidental,0,20098,0.0
+2010,Riverside,All Combined,2,2194933,0.09
+2010,Riverside,Felony,1,2194933,0.05
+2010,Riverside,Accidental,1,2194933,0.05
+2010,Sacramento,All Combined,0,1421236,0.0
+2010,Sacramento,Felony,0,1421236,0.0
+2010,Sacramento,Accidental,0,1421236,0.0
+2010,San Benito,All Combined,0,55547,0.0
+2010,San Benito,Felony,0,55547,0.0
+2010,San Benito,Accidental,0,55547,0.0
+2010,San Bernardino,All Combined,2,2039040,0.1
+2010,San Bernardino,Felony,0,2039040,0.0
+2010,San Bernardino,Accidental,2,2039040,0.1
+2010,San Diego,All Combined,2,3112965,0.06
+2010,San Diego,Felony,1,3112965,0.03
+2010,San Diego,Accidental,1,3112965,0.03
+2010,San Francisco,All Combined,0,808850,0.0
+2010,San Francisco,Felony,0,808850,0.0
+2010,San Francisco,Accidental,0,808850,0.0
+2010,San Joaquin,All Combined,0,687095,0.0
+2010,San Joaquin,Felony,0,687095,0.0
+2010,San Joaquin,Accidental,0,687095,0.0
+2010,San Luis Obispo,All Combined,1,269446,0.37
+2010,San Luis Obispo,Felony,0,269446,0.0
+2010,San Luis Obispo,Accidental,1,269446,0.37
+2010,San Mateo,All Combined,0,719446,0.0
+2010,San Mateo,Felony,0,719446,0.0
+2010,San Mateo,Accidental,0,719446,0.0
+2010,Santa Barbara,All Combined,0,424688,0.0
+2010,Santa Barbara,Felony,0,424688,0.0
+2010,Santa Barbara,Accidental,0,424688,0.0
+2010,Santa Clara,All Combined,0,1785089,0.0
+2010,Santa Clara,Felony,0,1785089,0.0
+2010,Santa Clara,Accidental,0,1785089,0.0
+2010,Santa Cruz,All Combined,0,263709,0.0
+2010,Santa Cruz,Felony,0,263709,0.0
+2010,Santa Cruz,Accidental,0,263709,0.0
+2010,Shasta,All Combined,0,177538,0.0
+2010,Shasta,Felony,0,177538,0.0
+2010,Shasta,Accidental,0,177538,0.0
+2010,Sierra,All Combined,0,3319,0.0
+2010,Sierra,Felony,0,3319,0.0
+2010,Sierra,Accidental,0,3319,0.0
+2010,Siskiyou,All Combined,0,45019,0.0
+2010,Siskiyou,Felony,0,45019,0.0
+2010,Siskiyou,Accidental,0,45019,0.0
+2010,Solano,All Combined,0,413723,0.0
+2010,Solano,Felony,0,413723,0.0
+2010,Solano,Accidental,0,413723,0.0
+2010,Sonoma,All Combined,0,484852,0.0
+2010,Sonoma,Felony,0,484852,0.0
+2010,Sonoma,Accidental,0,484852,0.0
+2010,Stanislaus,All Combined,0,515459,0.0
+2010,Stanislaus,Felony,0,515459,0.0
+2010,Stanislaus,Accidental,0,515459,0.0
+2010,Sutter,All Combined,0,95085,0.0
+2010,Sutter,Felony,0,95085,0.0
+2010,Sutter,Accidental,0,95085,0.0
+2010,Tehama,All Combined,0,63710,0.0
+2010,Tehama,Felony,0,63710,0.0
+2010,Tehama,Accidental,0,63710,0.0
+2010,Trinity,All Combined,0,13943,0.0
+2010,Trinity,Felony,0,13943,0.0
+2010,Trinity,Accidental,0,13943,0.0
+2010,Tulare,All Combined,0,443487,0.0
+2010,Tulare,Felony,0,443487,0.0
+2010,Tulare,Accidental,0,443487,0.0
+2010,Tuolumne,All Combined,0,55690,0.0
+2010,Tuolumne,Felony,0,55690,0.0
+2010,Tuolumne,Accidental,0,55690,0.0
+2010,Ventura,All Combined,0,825193,0.0
+2010,Ventura,Felony,0,825193,0.0
+2010,Ventura,Accidental,0,825193,0.0
+2010,Yolo,All Combined,0,201651,0.0
+2010,Yolo,Felony,0,201651,0.0
+2010,Yolo,Accidental,0,201651,0.0
+2010,Yuba,All Combined,0,72498,0.0
+2010,Yuba,Felony,0,72498,0.0
+2010,Yuba,Accidental,0,72498,0.0
+2011,Alameda,All Combined,0,1526095,0.0
+2011,Alameda,Felony,0,1526095,0.0
+2011,Alameda,Accidental,0,1526095,0.0
+2011,All Combined,All Combined,6,37603339,0.02
+2011,All Combined,Felony,2,37603339,0.01
+2011,All Combined,Accidental,4,37603339,0.01
+2011,Alpine,All Combined,0,1213,0.0
+2011,Alpine,Felony,0,1213,0.0
+2011,Alpine,Accidental,0,1213,0.0
+2011,Amador,All Combined,0,38033,0.0
+2011,Amador,Felony,0,38033,0.0
+2011,Amador,Accidental,0,38033,0.0
+2011,Butte,All Combined,0,220829,0.0
+2011,Butte,Felony,0,220829,0.0
+2011,Butte,Accidental,0,220829,0.0
+2011,Calaveras,All Combined,0,45384,0.0
+2011,Calaveras,Felony,0,45384,0.0
+2011,Calaveras,Accidental,0,45384,0.0
+2011,Colusa,All Combined,0,21731,0.0
+2011,Colusa,Felony,0,21731,0.0
+2011,Colusa,Accidental,0,21731,0.0
+2011,Contra Costa,All Combined,0,1060743,0.0
+2011,Contra Costa,Felony,0,1060743,0.0
+2011,Contra Costa,Accidental,0,1060743,0.0
+2011,Del Norte,All Combined,0,28831,0.0
+2011,Del Norte,Felony,0,28831,0.0
+2011,Del Norte,Accidental,0,28831,0.0
+2011,El Dorado,All Combined,0,181490,0.0
+2011,El Dorado,Felony,0,181490,0.0
+2011,El Dorado,Accidental,0,181490,0.0
+2011,Fresno,All Combined,0,940205,0.0
+2011,Fresno,Felony,0,940205,0.0
+2011,Fresno,Accidental,0,940205,0.0
+2011,Glenn,All Combined,0,28461,0.0
+2011,Glenn,Felony,0,28461,0.0
+2011,Glenn,Accidental,0,28461,0.0
+2011,Humboldt,All Combined,0,136653,0.0
+2011,Humboldt,Felony,0,136653,0.0
+2011,Humboldt,Accidental,0,136653,0.0
+2011,Imperial,All Combined,0,177456,0.0
+2011,Imperial,Felony,0,177456,0.0
+2011,Imperial,Accidental,0,177456,0.0
+2011,Inyo,All Combined,0,18998,0.0
+2011,Inyo,Felony,0,18998,0.0
+2011,Inyo,Accidental,0,18998,0.0
+2011,Kern,All Combined,0,853130,0.0
+2011,Kern,Felony,0,853130,0.0
+2011,Kern,Accidental,0,853130,0.0
+2011,Kings,All Combined,0,153365,0.0
+2011,Kings,Felony,0,153365,0.0
+2011,Kings,Accidental,0,153365,0.0
+2011,Lake,All Combined,0,64781,0.0
+2011,Lake,Felony,0,64781,0.0
+2011,Lake,Accidental,0,64781,0.0
+2011,Lassen,All Combined,0,35015,0.0
+2011,Lassen,Felony,0,35015,0.0
+2011,Lassen,Accidental,0,35015,0.0
+2011,Los Angeles,All Combined,2,9862211,0.02
+2011,Los Angeles,Felony,0,9862211,0.0
+2011,Los Angeles,Accidental,2,9862211,0.02
+2011,Madera,All Combined,0,152313,0.0
+2011,Madera,Felony,0,152313,0.0
+2011,Madera,Accidental,0,152313,0.0
+2011,Marin,All Combined,0,254579,0.0
+2011,Marin,Felony,0,254579,0.0
+2011,Marin,Accidental,0,254579,0.0
+2011,Mariposa,All Combined,0,18128,0.0
+2011,Mariposa,Felony,0,18128,0.0
+2011,Mariposa,Accidental,0,18128,0.0
+2011,Mendocino,All Combined,1,88535,1.13
+2011,Mendocino,Felony,0,88535,0.0
+2011,Mendocino,Accidental,1,88535,1.13
+2011,Merced,All Combined,0,260143,0.0
+2011,Merced,Felony,0,260143,0.0
+2011,Merced,Accidental,0,260143,0.0
+2011,Modoc,All Combined,0,9731,0.0
+2011,Modoc,Felony,0,9731,0.0
+2011,Modoc,Accidental,0,9731,0.0
+2011,Mono,All Combined,0,14446,0.0
+2011,Mono,Felony,0,14446,0.0
+2011,Mono,Accidental,0,14446,0.0
+2011,Monterey,All Combined,0,419899,0.0
+2011,Monterey,Felony,0,419899,0.0
+2011,Monterey,Accidental,0,419899,0.0
+2011,Napa,All Combined,0,138349,0.0
+2011,Napa,Felony,0,138349,0.0
+2011,Napa,Accidental,0,138349,0.0
+2011,Nevada,All Combined,0,98924,0.0
+2011,Nevada,Felony,0,98924,0.0
+2011,Nevada,Accidental,0,98924,0.0
+2011,Orange,All Combined,0,3044425,0.0
+2011,Orange,Felony,0,3044425,0.0
+2011,Orange,Accidental,0,3044425,0.0
+2011,Placer,All Combined,0,356319,0.0
+2011,Placer,Felony,0,356319,0.0
+2011,Placer,Accidental,0,356319,0.0
+2011,Plumas,All Combined,0,20136,0.0
+2011,Plumas,Felony,0,20136,0.0
+2011,Plumas,Accidental,0,20136,0.0
+2011,Riverside,All Combined,1,2222403,0.04
+2011,Riverside,Felony,0,2222403,0.0
+2011,Riverside,Accidental,1,2222403,0.04
+2011,Sacramento,All Combined,0,1431573,0.0
+2011,Sacramento,Felony,0,1431573,0.0
+2011,Sacramento,Accidental,0,1431573,0.0
+2011,San Benito,All Combined,0,56141,0.0
+2011,San Benito,Felony,0,56141,0.0
+2011,San Benito,Accidental,0,56141,0.0
+2011,San Bernardino,All Combined,0,2053786,0.0
+2011,San Bernardino,Felony,0,2053786,0.0
+2011,San Bernardino,Accidental,0,2053786,0.0
+2011,San Diego,All Combined,1,3133057,0.03
+2011,San Diego,Felony,1,3133057,0.03
+2011,San Diego,Accidental,0,3133057,0.0
+2011,San Francisco,All Combined,0,816127,0.0
+2011,San Francisco,Felony,0,816127,0.0
+2011,San Francisco,Accidental,0,816127,0.0
+2011,San Joaquin,All Combined,0,693371,0.0
+2011,San Joaquin,Felony,0,693371,0.0
+2011,San Joaquin,Accidental,0,693371,0.0
+2011,San Luis Obispo,All Combined,0,269937,0.0
+2011,San Luis Obispo,Felony,0,269937,0.0
+2011,San Luis Obispo,Accidental,0,269937,0.0
+2011,San Mateo,All Combined,0,727718,0.0
+2011,San Mateo,Felony,0,727718,0.0
+2011,San Mateo,Accidental,0,727718,0.0
+2011,Santa Barbara,All Combined,0,426507,0.0
+2011,Santa Barbara,Felony,0,426507,0.0
+2011,Santa Barbara,Accidental,0,426507,0.0
+2011,Santa Clara,All Combined,0,1805633,0.0
+2011,Santa Clara,Felony,0,1805633,0.0
+2011,Santa Clara,Accidental,0,1805633,0.0
+2011,Santa Cruz,All Combined,0,266083,0.0
+2011,Santa Cruz,Felony,0,266083,0.0
+2011,Santa Cruz,Accidental,0,266083,0.0
+2011,Shasta,All Combined,0,178158,0.0
+2011,Shasta,Felony,0,178158,0.0
+2011,Shasta,Accidental,0,178158,0.0
+2011,Sierra,All Combined,0,3263,0.0
+2011,Sierra,Felony,0,3263,0.0
+2011,Sierra,Accidental,0,3263,0.0
+2011,Siskiyou,All Combined,0,45086,0.0
+2011,Siskiyou,Felony,0,45086,0.0
+2011,Siskiyou,Accidental,0,45086,0.0
+2011,Solano,All Combined,1,415065,0.24
+2011,Solano,Felony,1,415065,0.24
+2011,Solano,Accidental,0,415065,0.0
+2011,Sonoma,All Combined,0,487622,0.0
+2011,Sonoma,Felony,0,487622,0.0
+2011,Sonoma,Accidental,0,487622,0.0
+2011,Stanislaus,All Combined,0,518516,0.0
+2011,Stanislaus,Felony,0,518516,0.0
+2011,Stanislaus,Accidental,0,518516,0.0
+2011,Sutter,All Combined,0,95212,0.0
+2011,Sutter,Felony,0,95212,0.0
+2011,Sutter,Accidental,0,95212,0.0
+2011,Tehama,All Combined,0,63801,0.0
+2011,Tehama,Felony,0,63801,0.0
+2011,Tehama,Accidental,0,63801,0.0
+2011,Trinity,All Combined,0,13806,0.0
+2011,Trinity,Felony,0,13806,0.0
+2011,Trinity,Accidental,0,13806,0.0
+2011,Tulare,All Combined,0,448037,0.0
+2011,Tulare,Felony,0,448037,0.0
+2011,Tulare,Accidental,0,448037,0.0
+2011,Tuolumne,All Combined,0,55645,0.0
+2011,Tuolumne,Felony,0,55645,0.0
+2011,Tuolumne,Accidental,0,55645,0.0
+2011,Ventura,All Combined,0,830350,0.0
+2011,Ventura,Felony,0,830350,0.0
+2011,Ventura,Accidental,0,830350,0.0
+2011,Yolo,All Combined,0,202971,0.0
+2011,Yolo,Felony,0,202971,0.0
+2011,Yolo,Accidental,0,202971,0.0
+2011,Yuba,All Combined,0,72920,0.0
+2011,Yuba,Felony,0,72920,0.0
+2011,Yuba,Accidental,0,72920,0.0
+2012,Alameda,All Combined,0,1539147,0.0
+2012,Alameda,Felony,0,1539147,0.0
+2012,Alameda,Accidental,0,1539147,0.0
+2012,All Combined,All Combined,2,37901778,0.01
+2012,All Combined,Felony,2,37901778,0.01
+2012,All Combined,Accidental,0,37901778,0.0
+2012,Alpine,All Combined,0,1219,0.0
+2012,Alpine,Felony,0,1219,0.0
+2012,Alpine,Accidental,0,1219,0.0
+2012,Amador,All Combined,0,37237,0.0
+2012,Amador,Felony,0,37237,0.0
+2012,Amador,Accidental,0,37237,0.0
+2012,Butte,All Combined,0,221469,0.0
+2012,Butte,Felony,0,221469,0.0
+2012,Butte,Accidental,0,221469,0.0
+2012,Calaveras,All Combined,0,45245,0.0
+2012,Calaveras,Felony,0,45245,0.0
+2012,Calaveras,Accidental,0,45245,0.0
+2012,Colusa,All Combined,0,21767,0.0
+2012,Colusa,Felony,0,21767,0.0
+2012,Colusa,Accidental,0,21767,0.0
+2012,Contra Costa,All Combined,1,1068900,0.09
+2012,Contra Costa,Felony,1,1068900,0.09
+2012,Contra Costa,Accidental,0,1068900,0.0
+2012,Del Norte,All Combined,0,28879,0.0
+2012,Del Norte,Felony,0,28879,0.0
+2012,Del Norte,Accidental,0,28879,0.0
+2012,El Dorado,All Combined,0,183596,0.0
+2012,El Dorado,Felony,0,183596,0.0
+2012,El Dorado,Accidental,0,183596,0.0
+2012,Fresno,All Combined,0,949448,0.0
+2012,Fresno,Felony,0,949448,0.0
+2012,Fresno,Accidental,0,949448,0.0
+2012,Glenn,All Combined,0,28393,0.0
+2012,Glenn,Felony,0,28393,0.0
+2012,Glenn,Accidental,0,28393,0.0
+2012,Humboldt,All Combined,0,136202,0.0
+2012,Humboldt,Felony,0,136202,0.0
+2012,Humboldt,Accidental,0,136202,0.0
+2012,Imperial,All Combined,0,178482,0.0
+2012,Imperial,Felony,0,178482,0.0
+2012,Imperial,Accidental,0,178482,0.0
+2012,Inyo,All Combined,0,19267,0.0
+2012,Inyo,Felony,0,19267,0.0
+2012,Inyo,Accidental,0,19267,0.0
+2012,Kern,All Combined,0,860265,0.0
+2012,Kern,Felony,0,860265,0.0
+2012,Kern,Accidental,0,860265,0.0
+2012,Kings,All Combined,0,152456,0.0
+2012,Kings,Felony,0,152456,0.0
+2012,Kings,Accidental,0,152456,0.0
+2012,Lake,All Combined,0,64680,0.0
+2012,Lake,Felony,0,64680,0.0
+2012,Lake,Accidental,0,64680,0.0
+2012,Lassen,All Combined,0,34955,0.0
+2012,Lassen,Felony,0,34955,0.0
+2012,Lassen,Accidental,0,34955,0.0
+2012,Los Angeles,All Combined,0,9945864,0.0
+2012,Los Angeles,Felony,0,9945864,0.0
+2012,Los Angeles,Accidental,0,9945864,0.0
+2012,Madera,All Combined,0,151659,0.0
+2012,Madera,Felony,0,151659,0.0
+2012,Madera,Accidental,0,151659,0.0
+2012,Marin,All Combined,0,254292,0.0
+2012,Marin,Felony,0,254292,0.0
+2012,Marin,Accidental,0,254292,0.0
+2012,Mariposa,All Combined,0,18147,0.0
+2012,Mariposa,Felony,0,18147,0.0
+2012,Mariposa,Accidental,0,18147,0.0
+2012,Mendocino,All Combined,0,89092,0.0
+2012,Mendocino,Felony,0,89092,0.0
+2012,Mendocino,Accidental,0,89092,0.0
+2012,Merced,All Combined,0,262003,0.0
+2012,Merced,Felony,0,262003,0.0
+2012,Merced,Accidental,0,262003,0.0
+2012,Modoc,All Combined,0,9596,0.0
+2012,Modoc,Felony,0,9596,0.0
+2012,Modoc,Accidental,0,9596,0.0
+2012,Mono,All Combined,0,14547,0.0
+2012,Mono,Felony,0,14547,0.0
+2012,Mono,Accidental,0,14547,0.0
+2012,Monterey,All Combined,0,421421,0.0
+2012,Monterey,Felony,0,421421,0.0
+2012,Monterey,Accidental,0,421421,0.0
+2012,Napa,All Combined,0,138847,0.0
+2012,Napa,Felony,0,138847,0.0
+2012,Napa,Accidental,0,138847,0.0
+2012,Nevada,All Combined,0,98382,0.0
+2012,Nevada,Felony,0,98382,0.0
+2012,Nevada,Accidental,0,98382,0.0
+2012,Orange,All Combined,0,3071877,0.0
+2012,Orange,Felony,0,3071877,0.0
+2012,Orange,Accidental,0,3071877,0.0
+2012,Placer,All Combined,0,360345,0.0
+2012,Placer,Felony,0,360345,0.0
+2012,Placer,Accidental,0,360345,0.0
+2012,Plumas,All Combined,0,19764,0.0
+2012,Plumas,Felony,0,19764,0.0
+2012,Plumas,Accidental,0,19764,0.0
+2012,Riverside,All Combined,0,2248311,0.0
+2012,Riverside,Felony,0,2248311,0.0
+2012,Riverside,Accidental,0,2248311,0.0
+2012,Sacramento,All Combined,0,1436441,0.0
+2012,Sacramento,Felony,0,1436441,0.0
+2012,Sacramento,Accidental,0,1436441,0.0
+2012,San Benito,All Combined,0,56844,0.0
+2012,San Benito,Felony,0,56844,0.0
+2012,San Benito,Accidental,0,56844,0.0
+2012,San Bernardino,All Combined,0,2064705,0.0
+2012,San Bernardino,Felony,0,2064705,0.0
+2012,San Bernardino,Accidental,0,2064705,0.0
+2012,San Diego,All Combined,0,3160737,0.0
+2012,San Diego,Felony,0,3160737,0.0
+2012,San Diego,Accidental,0,3160737,0.0
+2012,San Francisco,All Combined,0,825308,0.0
+2012,San Francisco,Felony,0,825308,0.0
+2012,San Francisco,Accidental,0,825308,0.0
+2012,San Joaquin,All Combined,0,698607,0.0
+2012,San Joaquin,Felony,0,698607,0.0
+2012,San Joaquin,Accidental,0,698607,0.0
+2012,San Luis Obispo,All Combined,0,270677,0.0
+2012,San Luis Obispo,Felony,0,270677,0.0
+2012,San Luis Obispo,Accidental,0,270677,0.0
+2012,San Mateo,All Combined,0,735676,0.0
+2012,San Mateo,Felony,0,735676,0.0
+2012,San Mateo,Accidental,0,735676,0.0
+2012,Santa Barbara,All Combined,0,426979,0.0
+2012,Santa Barbara,Felony,0,426979,0.0
+2012,Santa Barbara,Accidental,0,426979,0.0
+2012,Santa Clara,All Combined,0,1825349,0.0
+2012,Santa Clara,Felony,0,1825349,0.0
+2012,Santa Clara,Accidental,0,1825349,0.0
+2012,Santa Cruz,All Combined,0,269214,0.0
+2012,Santa Cruz,Felony,0,269214,0.0
+2012,Santa Cruz,Accidental,0,269214,0.0
+2012,Shasta,All Combined,0,178659,0.0
+2012,Shasta,Felony,0,178659,0.0
+2012,Shasta,Accidental,0,178659,0.0
+2012,Sierra,All Combined,0,3279,0.0
+2012,Sierra,Felony,0,3279,0.0
+2012,Sierra,Accidental,0,3279,0.0
+2012,Siskiyou,All Combined,0,45579,0.0
+2012,Siskiyou,Felony,0,45579,0.0
+2012,Siskiyou,Accidental,0,45579,0.0
+2012,Solano,All Combined,0,420007,0.0
+2012,Solano,Felony,0,420007,0.0
+2012,Solano,Accidental,0,420007,0.0
+2012,Sonoma,All Combined,0,489506,0.0
+2012,Sonoma,Felony,0,489506,0.0
+2012,Sonoma,Accidental,0,489506,0.0
+2012,Stanislaus,All Combined,1,523544,0.19
+2012,Stanislaus,Felony,1,523544,0.19
+2012,Stanislaus,Accidental,0,523544,0.0
+2012,Sutter,All Combined,0,97122,0.0
+2012,Sutter,Felony,0,97122,0.0
+2012,Sutter,Accidental,0,97122,0.0
+2012,Tehama,All Combined,0,64282,0.0
+2012,Tehama,Felony,0,64282,0.0
+2012,Tehama,Accidental,0,64282,0.0
+2012,Trinity,All Combined,0,13790,0.0
+2012,Trinity,Felony,0,13790,0.0
+2012,Trinity,Accidental,0,13790,0.0
+2012,Tulare,All Combined,0,452849,0.0
+2012,Tulare,Felony,0,452849,0.0
+2012,Tulare,Accidental,0,452849,0.0
+2012,Tuolumne,All Combined,0,54585,0.0
+2012,Tuolumne,Felony,0,54585,0.0
+2012,Tuolumne,Accidental,0,54585,0.0
+2012,Ventura,All Combined,0,833508,0.0
+2012,Ventura,Felony,0,833508,0.0
+2012,Ventura,Accidental,0,833508,0.0
+2012,Yolo,All Combined,0,205411,0.0
+2012,Yolo,Felony,0,205411,0.0
+2012,Yolo,Accidental,0,205411,0.0
+2012,Yuba,All Combined,0,73366,0.0
+2012,Yuba,Felony,0,73366,0.0
+2012,Yuba,Accidental,0,73366,0.0
+2013,Alameda,All Combined,0,1563370,0.0
+2013,Alameda,Felony,0,1563370,0.0
+2013,Alameda,Accidental,0,1563370,0.0
+2013,All Combined,All Combined,7,38202206,0.02
+2013,All Combined,Felony,5,38202206,0.01
+2013,All Combined,Accidental,2,38202206,0.01
+2013,Alpine,All Combined,0,1228,0.0
+2013,Alpine,Felony,0,1228,0.0
+2013,Alpine,Accidental,0,1228,0.0
+2013,Amador,All Combined,0,36945,0.0
+2013,Amador,Felony,0,36945,0.0
+2013,Amador,Accidental,0,36945,0.0
+2013,Butte,All Combined,0,222035,0.0
+2013,Butte,Felony,0,222035,0.0
+2013,Butte,Accidental,0,222035,0.0
+2013,Calaveras,All Combined,0,45214,0.0
+2013,Calaveras,Felony,0,45214,0.0
+2013,Calaveras,Accidental,0,45214,0.0
+2013,Colusa,All Combined,0,21987,0.0
+2013,Colusa,Felony,0,21987,0.0
+2013,Colusa,Accidental,0,21987,0.0
+2013,Contra Costa,All Combined,0,1081862,0.0
+2013,Contra Costa,Felony,0,1081862,0.0
+2013,Contra Costa,Accidental,0,1081862,0.0
+2013,Del Norte,All Combined,0,28530,0.0
+2013,Del Norte,Felony,0,28530,0.0
+2013,Del Norte,Accidental,0,28530,0.0
+2013,El Dorado,All Combined,0,184054,0.0
+2013,El Dorado,Felony,0,184054,0.0
+2013,El Dorado,Accidental,0,184054,0.0
+2013,Fresno,All Combined,0,958260,0.0
+2013,Fresno,Felony,0,958260,0.0
+2013,Fresno,Accidental,0,958260,0.0
+2013,Glenn,All Combined,0,28599,0.0
+2013,Glenn,Felony,0,28599,0.0
+2013,Glenn,Accidental,0,28599,0.0
+2013,Humboldt,All Combined,0,136480,0.0
+2013,Humboldt,Felony,0,136480,0.0
+2013,Humboldt,Accidental,0,136480,0.0
+2013,Imperial,All Combined,0,179326,0.0
+2013,Imperial,Felony,0,179326,0.0
+2013,Imperial,Accidental,0,179326,0.0
+2013,Inyo,All Combined,0,19241,0.0
+2013,Inyo,Felony,0,19241,0.0
+2013,Inyo,Accidental,0,19241,0.0
+2013,Kern,All Combined,0,869797,0.0
+2013,Kern,Felony,0,869797,0.0
+2013,Kern,Accidental,0,869797,0.0
+2013,Kings,All Combined,0,152456,0.0
+2013,Kings,Felony,0,152456,0.0
+2013,Kings,Accidental,0,152456,0.0
+2013,Lake,All Combined,0,64782,0.0
+2013,Lake,Felony,0,64782,0.0
+2013,Lake,Accidental,0,64782,0.0
+2013,Lassen,All Combined,0,34966,0.0
+2013,Lassen,Felony,0,34966,0.0
+2013,Lassen,Accidental,0,34966,0.0
+2013,Los Angeles,All Combined,0,10010961,0.0
+2013,Los Angeles,Felony,0,10010961,0.0
+2013,Los Angeles,Accidental,0,10010961,0.0
+2013,Madera,All Combined,0,153409,0.0
+2013,Madera,Felony,0,153409,0.0
+2013,Madera,Accidental,0,153409,0.0
+2013,Marin,All Combined,0,256264,0.0
+2013,Marin,Felony,0,256264,0.0
+2013,Marin,Accidental,0,256264,0.0
+2013,Mariposa,All Combined,0,18101,0.0
+2013,Mariposa,Felony,0,18101,0.0
+2013,Mariposa,Accidental,0,18101,0.0
+2013,Mendocino,All Combined,0,88931,0.0
+2013,Mendocino,Felony,0,88931,0.0
+2013,Mendocino,Accidental,0,88931,0.0
+2013,Merced,All Combined,0,263441,0.0
+2013,Merced,Felony,0,263441,0.0
+2013,Merced,Accidental,0,263441,0.0
+2013,Modoc,All Combined,0,9457,0.0
+2013,Modoc,Felony,0,9457,0.0
+2013,Modoc,Accidental,0,9457,0.0
+2013,Mono,All Combined,0,14376,0.0
+2013,Mono,Felony,0,14376,0.0
+2013,Mono,Accidental,0,14376,0.0
+2013,Monterey,All Combined,0,424119,0.0
+2013,Monterey,Felony,0,424119,0.0
+2013,Monterey,Accidental,0,424119,0.0
+2013,Napa,All Combined,0,139831,0.0
+2013,Napa,Felony,0,139831,0.0
+2013,Napa,Accidental,0,139831,0.0
+2013,Nevada,All Combined,0,98317,0.0
+2013,Nevada,Felony,0,98317,0.0
+2013,Nevada,Accidental,0,98317,0.0
+2013,Orange,All Combined,1,3097966,0.03
+2013,Orange,Felony,0,3097966,0.0
+2013,Orange,Accidental,1,3097966,0.03
+2013,Placer,All Combined,0,365125,0.0
+2013,Placer,Felony,0,365125,0.0
+2013,Placer,Accidental,0,365125,0.0
+2013,Plumas,All Combined,0,19466,0.0
+2013,Plumas,Felony,0,19466,0.0
+2013,Plumas,Accidental,0,19466,0.0
+2013,Riverside,All Combined,1,2264173,0.04
+2013,Riverside,Felony,1,2264173,0.04
+2013,Riverside,Accidental,0,2264173,0.0
+2013,Sacramento,All Combined,1,1448268,0.07
+2013,Sacramento,Felony,1,1448268,0.07
+2013,Sacramento,Accidental,0,1448268,0.0
+2013,San Benito,All Combined,0,57366,0.0
+2013,San Benito,Felony,0,57366,0.0
+2013,San Benito,Accidental,0,57366,0.0
+2013,San Bernardino,All Combined,1,2075160,0.05
+2013,San Bernardino,Felony,1,2075160,0.05
+2013,San Bernardino,Accidental,0,2075160,0.0
+2013,San Diego,All Combined,0,3184072,0.0
+2013,San Diego,Felony,0,3184072,0.0
+2013,San Diego,Accidental,0,3184072,0.0
+2013,San Francisco,All Combined,0,833827,0.0
+2013,San Francisco,Felony,0,833827,0.0
+2013,San Francisco,Accidental,0,833827,0.0
+2013,San Joaquin,All Combined,0,703790,0.0
+2013,San Joaquin,Felony,0,703790,0.0
+2013,San Joaquin,Accidental,0,703790,0.0
+2013,San Luis Obispo,All Combined,0,271740,0.0
+2013,San Luis Obispo,Felony,0,271740,0.0
+2013,San Luis Obispo,Accidental,0,271740,0.0
+2013,San Mateo,All Combined,0,741857,0.0
+2013,San Mateo,Felony,0,741857,0.0
+2013,San Mateo,Accidental,0,741857,0.0
+2013,Santa Barbara,All Combined,0,433157,0.0
+2013,Santa Barbara,Felony,0,433157,0.0
+2013,Santa Barbara,Accidental,0,433157,0.0
+2013,Santa Clara,All Combined,0,1850595,0.0
+2013,Santa Clara,Felony,0,1850595,0.0
+2013,Santa Clara,Accidental,0,1850595,0.0
+2013,Santa Cruz,All Combined,2,271495,0.74
+2013,Santa Cruz,Felony,2,271495,0.74
+2013,Santa Cruz,Accidental,0,271495,0.0
+2013,Shasta,All Combined,0,178591,0.0
+2013,Shasta,Felony,0,178591,0.0
+2013,Shasta,Accidental,0,178591,0.0
+2013,Sierra,All Combined,0,3270,0.0
+2013,Sierra,Felony,0,3270,0.0
+2013,Sierra,Accidental,0,3270,0.0
+2013,Siskiyou,All Combined,0,45215,0.0
+2013,Siskiyou,Felony,0,45215,0.0
+2013,Siskiyou,Accidental,0,45215,0.0
+2013,Solano,All Combined,0,424048,0.0
+2013,Solano,Felony,0,424048,0.0
+2013,Solano,Accidental,0,424048,0.0
+2013,Sonoma,All Combined,0,493070,0.0
+2013,Sonoma,Felony,0,493070,0.0
+2013,Sonoma,Accidental,0,493070,0.0
+2013,Stanislaus,All Combined,0,527232,0.0
+2013,Stanislaus,Felony,0,527232,0.0
+2013,Stanislaus,Accidental,0,527232,0.0
+2013,Sutter,All Combined,0,97386,0.0
+2013,Sutter,Felony,0,97386,0.0
+2013,Sutter,Accidental,0,97386,0.0
+2013,Tehama,All Combined,0,64498,0.0
+2013,Tehama,Felony,0,64498,0.0
+2013,Tehama,Accidental,0,64498,0.0
+2013,Trinity,All Combined,0,13776,0.0
+2013,Trinity,Felony,0,13776,0.0
+2013,Trinity,Accidental,0,13776,0.0
+2013,Tulare,All Combined,1,456075,0.22
+2013,Tulare,Felony,0,456075,0.0
+2013,Tulare,Accidental,1,456075,0.22
+2013,Tuolumne,All Combined,0,54811,0.0
+2013,Tuolumne,Felony,0,54811,0.0
+2013,Tuolumne,Accidental,0,54811,0.0
+2013,Ventura,All Combined,0,839617,0.0
+2013,Ventura,Felony,0,839617,0.0
+2013,Ventura,Accidental,0,839617,0.0
+2013,Yolo,All Combined,0,206621,0.0
+2013,Yolo,Felony,0,206621,0.0
+2013,Yolo,Accidental,0,206621,0.0
+2013,Yuba,All Combined,0,73600,0.0
+2013,Yuba,Felony,0,73600,0.0
+2013,Yuba,Accidental,0,73600,0.0
+2014,Alameda,All Combined,1,1582119,0.06
+2014,Alameda,Felony,0,1582119,0.0
+2014,Alameda,Accidental,1,1582119,0.06
+2014,All Combined,All Combined,14,38548204,0.04
+2014,All Combined,Felony,5,38548204,0.01
+2014,All Combined,Accidental,9,38548204,0.02
+2014,Alpine,All Combined,0,1243,0.0
+2014,Alpine,Felony,0,1243,0.0
+2014,Alpine,Accidental,0,1243,0.0
+2014,Amador,All Combined,0,37017,0.0
+2014,Amador,Felony,0,37017,0.0
+2014,Amador,Accidental,0,37017,0.0
+2014,Butte,All Combined,0,224518,0.0
+2014,Butte,Felony,0,224518,0.0
+2014,Butte,Accidental,0,224518,0.0
+2014,Calaveras,All Combined,0,45508,0.0
+2014,Calaveras,Felony,0,45508,0.0
+2014,Calaveras,Accidental,0,45508,0.0
+2014,Colusa,All Combined,0,22254,0.0
+2014,Colusa,Felony,0,22254,0.0
+2014,Colusa,Accidental,0,22254,0.0
+2014,Contra Costa,All Combined,0,1095476,0.0
+2014,Contra Costa,Felony,0,1095476,0.0
+2014,Contra Costa,Accidental,0,1095476,0.0
+2014,Del Norte,All Combined,0,28477,0.0
+2014,Del Norte,Felony,0,28477,0.0
+2014,Del Norte,Accidental,0,28477,0.0
+2014,El Dorado,All Combined,0,184320,0.0
+2014,El Dorado,Felony,0,184320,0.0
+2014,El Dorado,Accidental,0,184320,0.0
+2014,Fresno,All Combined,2,969338,0.21
+2014,Fresno,Felony,0,969338,0.0
+2014,Fresno,Accidental,2,969338,0.21
+2014,Glenn,All Combined,0,28868,0.0
+2014,Glenn,Felony,0,28868,0.0
+2014,Glenn,Accidental,0,28868,0.0
+2014,Humboldt,All Combined,0,136779,0.0
+2014,Humboldt,Felony,0,136779,0.0
+2014,Humboldt,Accidental,0,136779,0.0
+2014,Imperial,All Combined,0,183154,0.0
+2014,Imperial,Felony,0,183154,0.0
+2014,Imperial,Accidental,0,183154,0.0
+2014,Inyo,All Combined,0,19244,0.0
+2014,Inyo,Felony,0,19244,0.0
+2014,Inyo,Accidental,0,19244,0.0
+2014,Kern,All Combined,0,878356,0.0
+2014,Kern,Felony,0,878356,0.0
+2014,Kern,Accidental,0,878356,0.0
+2014,Kings,All Combined,0,153601,0.0
+2014,Kings,Felony,0,153601,0.0
+2014,Kings,Accidental,0,153601,0.0
+2014,Lake,All Combined,0,65465,0.0
+2014,Lake,Felony,0,65465,0.0
+2014,Lake,Accidental,0,65465,0.0
+2014,Lassen,All Combined,0,35038,0.0
+2014,Lassen,Felony,0,35038,0.0
+2014,Lassen,Accidental,0,35038,0.0
+2014,Los Angeles,All Combined,5,10082664,0.05
+2014,Los Angeles,Felony,2,10082664,0.02
+2014,Los Angeles,Accidental,3,10082664,0.03
+2014,Madera,All Combined,0,154829,0.0
+2014,Madera,Felony,0,154829,0.0
+2014,Madera,Accidental,0,154829,0.0
+2014,Marin,All Combined,0,257792,0.0
+2014,Marin,Felony,0,257792,0.0
+2014,Marin,Accidental,0,257792,0.0
+2014,Mariposa,All Combined,0,18091,0.0
+2014,Mariposa,Felony,0,18091,0.0
+2014,Mariposa,Accidental,0,18091,0.0
+2014,Mendocino,All Combined,1,88795,1.13
+2014,Mendocino,Felony,1,88795,1.13
+2014,Mendocino,Accidental,0,88795,0.0
+2014,Merced,All Combined,0,266444,0.0
+2014,Merced,Felony,0,266444,0.0
+2014,Merced,Accidental,0,266444,0.0
+2014,Modoc,All Combined,0,9395,0.0
+2014,Modoc,Felony,0,9395,0.0
+2014,Modoc,Accidental,0,9395,0.0
+2014,Mono,All Combined,0,14440,0.0
+2014,Mono,Felony,0,14440,0.0
+2014,Mono,Accidental,0,14440,0.0
+2014,Monterey,All Combined,0,426670,0.0
+2014,Monterey,Felony,0,426670,0.0
+2014,Monterey,Accidental,0,426670,0.0
+2014,Napa,All Combined,0,141172,0.0
+2014,Napa,Felony,0,141172,0.0
+2014,Napa,Accidental,0,141172,0.0
+2014,Nevada,All Combined,0,98453,0.0
+2014,Nevada,Felony,0,98453,0.0
+2014,Nevada,Accidental,0,98453,0.0
+2014,Orange,All Combined,0,3125833,0.0
+2014,Orange,Felony,0,3125833,0.0
+2014,Orange,Accidental,0,3125833,0.0
+2014,Placer,All Combined,2,369460,0.54
+2014,Placer,Felony,1,369460,0.27
+2014,Placer,Accidental,1,369460,0.27
+2014,Plumas,All Combined,0,19416,0.0
+2014,Plumas,Felony,0,19416,0.0
+2014,Plumas,Accidental,0,19416,0.0
+2014,Riverside,All Combined,0,2294333,0.0
+2014,Riverside,Felony,0,2294333,0.0
+2014,Riverside,Accidental,0,2294333,0.0
+2014,Sacramento,All Combined,1,1461174,0.07
+2014,Sacramento,Felony,1,1461174,0.07
+2014,Sacramento,Accidental,0,1461174,0.0
+2014,San Benito,All Combined,0,58222,0.0
+2014,San Benito,Felony,0,58222,0.0
+2014,San Benito,Accidental,0,58222,0.0
+2014,San Bernardino,All Combined,0,2096123,0.0
+2014,San Bernardino,Felony,0,2096123,0.0
+2014,San Bernardino,Accidental,0,2096123,0.0
+2014,San Diego,All Combined,0,3214279,0.0
+2014,San Diego,Felony,0,3214279,0.0
+2014,San Diego,Accidental,0,3214279,0.0
+2014,San Francisco,All Combined,0,840391,0.0
+2014,San Francisco,Felony,0,840391,0.0
+2014,San Francisco,Accidental,0,840391,0.0
+2014,San Joaquin,All Combined,1,713961,0.14
+2014,San Joaquin,Felony,0,713961,0.0
+2014,San Joaquin,Accidental,1,713961,0.14
+2014,San Luis Obispo,All Combined,0,272941,0.0
+2014,San Luis Obispo,Felony,0,272941,0.0
+2014,San Luis Obispo,Accidental,0,272941,0.0
+2014,San Mateo,All Combined,0,747334,0.0
+2014,San Mateo,Felony,0,747334,0.0
+2014,San Mateo,Accidental,0,747334,0.0
+2014,Santa Barbara,All Combined,0,435999,0.0
+2014,Santa Barbara,Felony,0,435999,0.0
+2014,Santa Barbara,Accidental,0,435999,0.0
+2014,Santa Clara,All Combined,0,1871516,0.0
+2014,Santa Clara,Felony,0,1871516,0.0
+2014,Santa Clara,Accidental,0,1871516,0.0
+2014,Santa Cruz,All Combined,0,272210,0.0
+2014,Santa Cruz,Felony,0,272210,0.0
+2014,Santa Cruz,Accidental,0,272210,0.0
+2014,Shasta,All Combined,0,179305,0.0
+2014,Shasta,Felony,0,179305,0.0
+2014,Shasta,Accidental,0,179305,0.0
+2014,Sierra,All Combined,0,3267,0.0
+2014,Sierra,Felony,0,3267,0.0
+2014,Sierra,Accidental,0,3267,0.0
+2014,Siskiyou,All Combined,0,45290,0.0
+2014,Siskiyou,Felony,0,45290,0.0
+2014,Siskiyou,Accidental,0,45290,0.0
+2014,Solano,All Combined,0,428705,0.0
+2014,Solano,Felony,0,428705,0.0
+2014,Solano,Accidental,0,428705,0.0
+2014,Sonoma,All Combined,0,497260,0.0
+2014,Sonoma,Felony,0,497260,0.0
+2014,Sonoma,Accidental,0,497260,0.0
+2014,Stanislaus,All Combined,0,532344,0.0
+2014,Stanislaus,Felony,0,532344,0.0
+2014,Stanislaus,Accidental,0,532344,0.0
+2014,Sutter,All Combined,0,97257,0.0
+2014,Sutter,Felony,0,97257,0.0
+2014,Sutter,Accidental,0,97257,0.0
+2014,Tehama,All Combined,0,64827,0.0
+2014,Tehama,Felony,0,64827,0.0
+2014,Tehama,Accidental,0,64827,0.0
+2014,Trinity,All Combined,0,13782,0.0
+2014,Trinity,Felony,0,13782,0.0
+2014,Trinity,Accidental,0,13782,0.0
+2014,Tulare,All Combined,0,461703,0.0
+2014,Tulare,Felony,0,461703,0.0
+2014,Tulare,Accidental,0,461703,0.0
+2014,Tuolumne,All Combined,0,54592,0.0
+2014,Tuolumne,Felony,0,54592,0.0
+2014,Tuolumne,Accidental,0,54592,0.0
+2014,Ventura,All Combined,1,844833,0.12
+2014,Ventura,Felony,0,844833,0.0
+2014,Ventura,Accidental,1,844833,0.12
+2014,Yolo,All Combined,0,208069,0.0
+2014,Yolo,Felony,0,208069,0.0
+2014,Yolo,Accidental,0,208069,0.0
+2014,Yuba,All Combined,0,74258,0.0
+2014,Yuba,Felony,0,74258,0.0
+2014,Yuba,Accidental,0,74258,0.0
